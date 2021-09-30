@@ -96,7 +96,7 @@ public class SheetWidget extends Panel {
     private static final String CELL_SELECTION_CLASSNAME = "selected-cell-highlight";
     static final String MERGED_CELL_CLASSNAME = "merged-cell";
 
-    private static final int CELL_COMMENT_OVERLAY_DELAY = 300;
+    private static final int CELL_COMMENT_OVERLAY_DELAY = 0;
     private static final int CELL_DATA_REQUESTER_DELAY = 100;
     private static final int SCROLL_HANDLER_TRIGGER_DELAY = 20;
 
