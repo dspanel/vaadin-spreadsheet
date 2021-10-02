@@ -53,15 +53,10 @@
     </pluginRepositories>
 
     <distributionManagement>
-        <snapshotRepository>
-            <id>vaadin-snapshots</id>
-            <name>Vaadin snapshot repository</name>
-            <url>https://oss.sonatype.org/content/repositories/vaadin-snapshots/</url>
-        </snapshotRepository>
         <repository>
-            <id>vaadin-addons</id>
-            <name>Vaadin add-ons repository</name>
-            <url>https://tools.vaadin.com/nexus/content/repositories/vaadin-addons</url>
+            <id>github</id>
+            <name>GitHub DSPanel Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/dspanel/vaadin-spreadsheet/</url>
         </repository>
     </distributionManagement>
 

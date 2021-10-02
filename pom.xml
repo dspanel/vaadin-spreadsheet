@@ -28,14 +28,6 @@
         <url>https://vaadin.com/</url>
     </organization>
 
-    <distributionManagement>
-        <repository>
-            <id>github</id>
-            <name>GitHub DSPanel Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/dspanel/vaadin-spreadsheet</url>
-        </repository>
-    </distributionManagement>
-
     <build>
         <plugins>
             <plugin>
